@@ -20,14 +20,17 @@ The project utilizes the following technologies:
 - **Swing GUI Toolkit**: Java library for creating graphical user interfaces.
 - **MySQL Database**: Database management system for storing and managing student data.
 
-![Image 0](project_images/0.png)
-![Image 1](project_images/1.png)
-![Image 2](project_images/2.png)
-![Image 3](project_images/3.png)
-![Image 4](project_images/4.png)
-![Image 5](project_images/5.png)
-![Image 6](project_images/6.png)
-![Image 7](project_images/7.png)
+### Project Images
+
+![Image 0](project_images/0.PNG)
+![Image 1](project_images/1.PNG)
+![Image 2](project_images/2.PNG)
+![Image 3](project_images/3.PNG)
+![Image 4](project_images/4.PNG)
+![Image 5](project_images/5.PNG)
+![Image 6](project_images/6.PNG)
+
+
 
 
 
