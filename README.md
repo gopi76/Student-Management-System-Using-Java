@@ -20,6 +20,12 @@ The project utilizes the following technologies:
 - **Swing GUI Toolkit**: Java library for creating graphical user interfaces.
 - **MySQL Database**: Database management system for storing and managing student data.
 
+### Versions
+- Java_JDKVersion : java version "21.0.1"
+- Editor       : Eclipse IDE for Java Developers - 2023-12
+- MySQL Version: 5.5 ( i have used very old version becuase some another python programs are required. you can use anything.)
+- Sqlconnector : 8.3.0 version
+
 ### Project Images
 
 ![Image 0](project_images/0.PNG)
@@ -29,6 +35,12 @@ The project utilizes the following technologies:
 ![Image 4](project_images/4.PNG)
 ![Image 5](project_images/5.PNG)
 ![Image 6](project_images/6.PNG)
+
+
+### Note
+- connect the java + mysql + JDBC
+- then use commands to create a database and create a table. (information mentioned in notepad file >> sql)
+- then run the loginActivity.java file
 
 
 
